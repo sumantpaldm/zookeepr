@@ -1,0 +1,25 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "EXPRESS.JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumantpaldm/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumantpaldm/zookeepr/issues"
+  },
+  "homepage": "https://github.com/sumantpaldm/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.2.0"
+  }
+}
